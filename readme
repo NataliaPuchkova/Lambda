@@ -1,4 +1,12 @@
+AWS examples:
+- using Polly, DynamoDB from Lambda
+- EC2 bootscripts
+- Policy settings
+- Sending email by Lambda
+- CloudFormation templates
 
+
+Additional Resources:
 ​📝 Serverless Cost Calculator: You can use this website to calculate cost for AWS Lambda, Azure Functions, Google Cloud Functions, and IBM OpenWhisk
 
 ​📝 The Serverless Revolution For EveryOne: A slide deck giving good introduction to Serverless computing.
